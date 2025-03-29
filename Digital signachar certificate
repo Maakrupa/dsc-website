@@ -1,0 +1,38 @@
+<!DOCTYPE html><html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DSC Services - Maa Krupa</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; }
+        .container { width: 80%; margin: auto; }
+        .ad { margin: 20px 0; }
+        .affiliate { color: blue; text-decoration: none; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to Maa Krupa DSC Services</h1>
+        <p>Your trusted source for Digital Signature Certificates.</p><!-- Google AdSense Ad Placeholder -->
+    <div class="ad">
+        <p>Advertisement</p>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-xxxxxxxxxxxxxx" data-ad-slot="1234567890" data-ad-format="auto"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+    
+    <!-- Affiliate Marketing Links -->
+    <h2>Buy DSC Tokens Online</h2>
+    <p><a href="https://www.amazon.in/dp/B08XYZ1234" target="_blank" class="affiliate">Buy DSC Token on Amazon</a></p>
+    <p><a href="https://www.flipkart.com/dsc-token" target="_blank" class="affiliate">Buy DSC Token on Flipkart</a></p>
+    
+    <!-- Premium Membership Option -->
+    <h2>Get Premium DSC Services</h2>
+    <p>Get fast approval and priority support for your DSC needs.</p>
+    <button onclick="alert('Coming Soon!')">Upgrade to Premium</button>
+</div>
+
+</body>
+</html>
